@@ -6,7 +6,7 @@ yarn-debug.log*
 pnpm-debug.log*
 
 # Environment Variables
-.env
+**/.env
 
 # Ignore node_modules in all subfolders
 node_modules/
