@@ -1,0 +1,22 @@
+.home-container {
+  padding: 25px;
+  width: 90%;
+  max-width: 600px;
+  text-align: center;
+  height: 520px; 
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  overflow: hidden;
+  transition: 0.3s ease-in-out; 
+}
+
+.home-heading {
+  font-size: 26px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 15px;
+  text-align: center;
+  border-bottom: 2px solid #ddd; 
+  padding-bottom: 10px;
+}

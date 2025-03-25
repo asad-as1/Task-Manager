@@ -1,0 +1,21 @@
+.task-form {
+    margin-bottom: 10px;
+  }
+  
+  .task-form input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .task-form button {
+    background: blue;
+    color: white;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
