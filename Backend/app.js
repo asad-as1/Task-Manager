@@ -9,7 +9,12 @@ connectDB();
 
 const app = express();
 app.use(express.json());
-app.use(cors());
+app.use(cors({
+    origin: process.env.CORS_ORIGIN,
+    credentials: true,
+}));
+
+
 app.use("/api/tasks", taskRoutes);
 
 const PORT = process.env.PORT || 5000;
