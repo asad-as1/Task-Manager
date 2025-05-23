@@ -1,8 +1,6 @@
 # 📝 Task Manager App (MERN) 🚀
 
 
-# Live Url: https://task-manager-as2.netlify.app/
-
 A simple **Task Management** app built with **MongoDB, Express, React, and Node.js**.
 
 ## 📸 Screenshot  
